@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+section {
+    width: 350px;
+    position: relative;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    background-color: white;
+    height: 50px;
+    width: 350px;
+}
+
+#himg {
+    width: 40px;
+    height: 40px;
+    padding-top: 9px;
+}
+
+.fa-solid {
+    margin-left: 190px;
+}
+
+#bimg {
+    width: 350px;
+}
+
+#pp {
+    padding-top: 9px;
+    margin: 0px;
+}
+
+.footer {
+    background-color: white;
+    height: 40px;
+    margin-top: -4px;
+    width: 350px;
+}
+
+.footertwo {
+    background-color: white;
+    width: 320px;
+    margin-top: -16px ;
+    padding: 15px;
+    font-size: 13px;
+}
+
+.fa-regular {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#fa {
+    padding-left: 215px;
+}
